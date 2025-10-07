@@ -1,9 +1,11 @@
 # 🚗 MonPermis – Maîtrisez le Code de la Route avec Confiance
 
-[![React Native](https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactnative.dev/)
-[![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
-[![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
-[![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)](https://expo.dev/)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/bako1716/MonPermis/main/screenshots/accuil.png" width="30%">
+  <img src="https://raw.githubusercontent.com/bako1716/MonPermis/main/screenshots/cours_inteface.png" width="30%">
+  <img src="https://raw.githubusercontent.com/bako1716/MonPermis/main/screenshots/interface_test_series.png" width="30%">
+</p>
+
 
 ---
 
