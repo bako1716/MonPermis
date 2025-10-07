@@ -30,21 +30,6 @@ Conçue spécialement pour le public burkinabè et africain, MonPermis reproduit
 
 ---
 
-## 📸 Captures d'écran
-
-| Accueil | Interface de cours | Interface de test |
-|----------|-------------------|-------------------|
-| ![Accueil](https://github.com/bako1716/MonPermis/blob/master/screenshots/accuil.png?raw=true) | ![Cours](https://github.com/bako1716/MonPermis/blob/master/screenshots/cours_inteface.png?raw=true) | ![Test](https://github.com/bako1716/MonPermis/blob/master/screenshots/interface_test_series.png?raw=true) |
-
-| Quiz 1 | Quiz 2 | Résultat détaillé |
-|---------|---------|------------------|
-| ![Quiz 1](https://github.com/bako1716/MonPermis/blob/master/screenshots/QUIZZ.png?raw=true) | ![Quiz 2](https://github.com/bako1716/MonPermis/blob/master/screenshots/QUIZZ2.png?raw=true) | ![Résultat détaillé](https://github.com/bako1716/MonPermis/blob/master/screenshots/RESLTAT%20DETAILLE.png?raw=true) |
-
-| Résultat global | Interface web |
-|------------------|---------------|
-| ![Résultat](https://github.com/bako1716/MonPermis/blob/master/screenshots/RESULTAT.png?raw=true) | ![Interface web](https://github.com/bako1716/MonPermis/blob/master/screenshots/web_interface.png?raw=true) |
-
----
 
 ## ✨ Fonctionnalités principales
 
@@ -244,29 +229,23 @@ Ce projet est développé dans un cadre académique et personnel.
 
 ## 👨‍💻 Auteur
 
-**BAKOO**  
-Développeur fullstack en apprentissage  
+**BAKO Isaie**  
+Eleve INGENIEUR En innovation et AMOA 
 Premier projet web et mobile
 
-📧 Contact : [Votre email]  
+📧 Contact : [bako.isaie@gmail.com]  
 🔗 GitHub : [@bako1716](https://github.com/bako1716)
 
 ---
 
 ## 🙏 Remerciements
 
-Merci à tous ceux qui ont contribué à ce projet d'apprentissage, ainsi qu'aux ressources open-source qui ont rendu ce développement possible.
+## 🙏 Remerciements
 
----
+Ce projet a été réalisé dans le cadre de la formation en **Innovation et AMOA** à l’**Institut National des Postes et Télécommunications (INPT – Maroc)**.  
+Je remercie vivement mes **enseignants, encadrants** pour leur accompagnement constant, leurs retours constructifs et leur esprit de collaboration.  
 
-> ⚠️ **Note importante** : Ne jamais commiter de clés API ou d'informations sensibles. Utilisez toujours un fichier `.env` (non versionné) basé sur `.env.example`.
+Je souhaite également exprimer ma reconnaissance aux **contributeurs open-source** et à la communauté du développement logiciel, dont les travaux ont inspiré et enrichi la conception de *MonPermis*.
+](#-monpermis--maîtrisez-le-code-de-la-route-avec-confiance)
 
----
 
-<div align="center">
-
-**Fait avec ❤️ pour faciliter l'apprentissage du code de la route**
-
-[⬆ Retour en haut](#-monpermis--maîtrisez-le-code-de-la-route-avec-confiance)
-
-</div>
