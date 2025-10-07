@@ -1,9 +1,22 @@
 # 🚗 MonPermis – Maîtrisez le Code de la Route avec Confiance
 
+## 📸 Captures d’écran
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/bako1716/MonPermis/main/screenshots/accuil.png" width="30%">
   <img src="https://raw.githubusercontent.com/bako1716/MonPermis/main/screenshots/cours_inteface.png" width="30%">
   <img src="https://raw.githubusercontent.com/bako1716/MonPermis/main/screenshots/interface_test_series.png" width="30%">
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/bako1716/MonPermis/main/screenshots/QUIZZ.png" width="30%">
+  <img src="https://raw.githubusercontent.com/bako1716/MonPermis/main/screenshots/QUIZZ2.png" width="30%">
+  <img src="https://raw.githubusercontent.com/bako1716/MonPermis/main/screenshots/RESLTAT%20DETAILLE.png" width="30%">
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/bako1716/MonPermis/main/screenshots/RESULTAT.png" width="30%">
+  <img src="https://raw.githubusercontent.com/bako1716/MonPermis/main/screenshots/web_interface.png" width="30%">
 </p>
 
 
