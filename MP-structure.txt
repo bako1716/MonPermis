@@ -1,0 +1,167 @@
+﻿HEDERA TOKEN CHATBOT - STRUCTURE DU PROJET
+==========================================
+GÃ©nÃ©rÃ© le : 2025-10-05 23:17:03
+Chemin     : D:\MonP\MonPermis
+MonPermis/
+|-- backendMPermis/
+|   |-- backup/
+|   |   |-- 12mars/
+|   |   |   |-- routes/
+|   |   |   |   |-- Nouveau dossier/
+|   |   |   |   +-- photos.js
+|   |   |   |-- .env
+|   |   |   |-- package.json
+|   |   |   +-- Server.js
+|   |   +-- Nouveau dossier/
+|   |       |-- models/
+|   |       |   |-- Nouveau document texte.txt
+|   |       |   +-- photo.js
+|   |       |-- routes/
+|   |       |   +-- photos.js
+|   |       |-- package.json
+|   |       |-- package-lock.json
+|   |       +-- Server.js
+|   |-- models/
+|   |   |-- Nouveau document texte.txt
+|   |   |-- photo.js
+|   |   +-- question.js
+|   |-- resourec util/
+|   |   +-- Explication du chemin (Endpoint).txt
+|   |-- routes/
+|   |   |-- photos.js
+|   |   +-- questions.js
+|   |-- upload/
+|   |   +-- photoexam/
+|   |       |-- 1.jpg
+|   |       |-- 10.jpg
+|   |       |-- 11.jpg
+|   |       |-- 12.jpg
+|   |       |-- 13.jpg
+|   |       |-- 14.jpg
+|   |       |-- 15.jpg
+|   |       |-- 16.jpg
+|   |       |-- 17.jpg
+|   |       |-- 18.jpg
+|   |       |-- 19.jpg
+|   |       |-- 2.jpg
+|   |       |-- 20.jpg
+|   |       |-- 21.jpg
+|   |       |-- 22.jpg
+|   |       |-- 23.jpg
+|   |       |-- 24.jpg
+|   |       |-- 25.jpg
+|   |       |-- 26.jpg
+|   |       |-- 27.jpg
+|   |       |-- 28.jpg
+|   |       |-- 29.jpg
+|   |       |-- 3.jpg
+|   |       |-- 30.jpg
+|   |       |-- 31.jpg
+|   |       |-- 32.jpg
+|   |       |-- 33.jpg
+|   |       |-- 34.jpg
+|   |       |-- 35.jpg
+|   |       |-- 36.jpg
+|   |       |-- 37.jpg
+|   |       |-- 38.jpg
+|   |       |-- 39.jpg
+|   |       |-- 4.jpg
+|   |       |-- 40.jpg
+|   |       |-- 5.jpg
+|   |       |-- 6.jpg
+|   |       |-- 7.jpg
+|   |       |-- 8.jpg
+|   |       |-- 9.jpg
+|   |       +-- import pytesseract.py
+|   |-- ~$ema collection.docx
+|   |-- package.json
+|   |-- package-lock.json
+|   |-- questions.json
+|   |-- Server.js
+|   |-- shema collection.docx
+|   +-- updateUrls.js
+|-- MonPermisFrondend/
+|   |-- .expo/
+|   |   |-- types/
+|   |   |   +-- router.d.ts
+|   |   |-- web/
+|   |   |   +-- cache/
+|   |   |       +-- production/
+|   |   |-- devices.json
+|   |   +-- README.md
+|   |-- app/
+|   |   |-- (tabs)/
+|   |   |   |-- _layout.tsx
+|   |   |   |-- explore.tsx
+|   |   |   +-- index.tsx
+|   |   |-- _layout.tsx
+|   |   +-- +not-found.tsx
+|   |-- app-example/
+|   |-- assets/
+|   |   |-- ExamPictures/
+|   |   |   |-- panneau1.png
+|   |   |   |-- panneau2.png
+|   |   |   +-- panneau3.png
+|   |   |-- fonts/
+|   |   |   +-- SpaceMono-Regular.ttf
+|   |   |-- images/
+|   |   |   |-- adaptive-icon.png
+|   |   |   |-- favicon.png
+|   |   |   |-- icon.png
+|   |   |   |-- partial-react-logo.png
+|   |   |   |-- react-logo.png
+|   |   |   |-- react-logo@2x.png
+|   |   |   |-- react-logo@3x.png
+|   |   |   +-- splash-icon.png
+|   |   |-- photo/
+|   |   |   +-- rou.jpg
+|   |   |-- bg.jpg
+|   |   |-- fond1.JPG
+|   |   |-- fondd.jpg
+|   |   |-- logo-auto-ecole.png
+|   |   +-- monpermis-logo.png
+|   |-- components/
+|   |   |-- __tests__/
+|   |   |   |-- __snapshots__/
+|   |   |   |   +-- ThemedText-test.tsx.snap
+|   |   |   +-- ThemedText-test.tsx
+|   |   |-- Nouveau dossier/
+|   |   |-- ui/
+|   |   |   |-- IconSymbol.ios.tsx
+|   |   |   |-- IconSymbol.tsx
+|   |   |   |-- TabBarBackground.ios.tsx
+|   |   |   +-- TabBarBackground.tsx
+|   |   |-- AndroidSafeImage.js
+|   |   |-- Collapsible.tsx
+|   |   |-- ExternalLink.tsx
+|   |   |-- HapticTab.tsx
+|   |   |-- HelloWave.tsx
+|   |   |-- ParallaxScrollView.tsx
+|   |   |-- ThemedText.tsx
+|   |   +-- ThemedView.tsx
+|   |-- constants/
+|   |   +-- Colors.ts
+|   |-- context/
+|   |   +-- QuizContext.js
+|   |-- fetch/
+|   |   +-- api/
+|   |       +-- fetchfetchQuestions.js
+|   |-- hooks/
+|   |   |-- useColorScheme.ts
+|   |   |-- useColorScheme.web.ts
+|   |   +-- useThemeColor.ts
+|   |-- (
+|   |-- App.js
+|   |-- app.json
+|   |-- babel.config.js
+|   |-- eas.json
+|   |-- item.id}
+|   |-- npm
+|   |-- package.json
+|   |-- README.md
+|   +-- tsconfig.json
+|-- screenshots/
+|-- .env.example
+|-- .gitignore
+|-- generate-structure.ps1
++-- README.md

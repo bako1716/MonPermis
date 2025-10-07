@@ -1,0 +1,17 @@
+Explication du "chemin" (Endpoint)
+
+    http://localhost:3000/api/users → L'URL de l'API.
+    Body > raw > JSON → Là où on écrit les données à envoyer.
+    Exemple de réponse attendue du serveur :
+
+    {
+      "message": "Utilisateur créé avec succès",
+      "user": {
+        "nom": "Isaie",
+        "email": "isaie@example.com",
+        "age": 34,
+        "id": 1
+      }
+    }
+
+Si tu faisais référence à autre chose, précise-moi ! 😊
